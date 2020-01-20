@@ -1,0 +1,9 @@
+[Desktop Entry]
+Name=SMW
+Comment=Super Mario War port
+Exec=smw.dge
+Icon=smw
+Categories=games;
+Terminal=false
+Type=Application
+StartupNotify=true

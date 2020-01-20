@@ -1,0 +1,5 @@
+*.o
+*.opk
+*.ipk
+*.elf
+*.dge

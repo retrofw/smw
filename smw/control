@@ -1,0 +1,10 @@
+Package: smw
+Version: 
+Description: RetroGame port of Super Mario War
+Section: emus
+Priority: optional
+Maintainer: pingflood
+Architecture: mipsel
+Homepage: https://github.com/retrofw/smw
+Depends:
+Source: https://github.com/retrofw/smw
