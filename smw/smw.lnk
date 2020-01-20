@@ -1,0 +1,4 @@
+title=SMW
+description=Super Mario War port
+exec=/home/retrofw/games/smw/smw.elf
+clock=600
